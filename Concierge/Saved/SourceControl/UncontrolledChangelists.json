@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/Blueprints/HouseDoor.uasset",
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/Scenes/Game.umap",
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/Blueprints/PersonDoor.uasset",
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/Blueprints/Missions/MissionsBase.uasset",
+				"C:/Users/1/Documents/Unreal Projects/Vaneau/Concierge/Content/Blueprints/Missions/App01/Harcelement/Mission_Harcelement.uasset",
 				"C:/Users/1/Documents/Unreal Projects/Concierge/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/1/Documents/Unreal Projects/Concierge/Content/Game.umap",
 				"C:/Users/1/Documents/Unreal Projects/Concierge/Content/FirstPerson/Input/IMC_Default.uasset",
